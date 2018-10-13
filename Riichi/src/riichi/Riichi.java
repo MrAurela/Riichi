@@ -7,7 +7,7 @@ package riichi;
 
 /**
  *
- * @author Tiia Vastamäki
+ * @author Miro Aurela & Tiia Vastamäki
  */
 public class Riichi {
 
